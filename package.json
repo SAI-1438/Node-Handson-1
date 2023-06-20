@@ -1,0 +1,14 @@
+{
+  "name": "node-handson-1",
+  "version": "1.0.0",
+  "description": "Node Handson 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "bsk",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
